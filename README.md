@@ -1,5 +1,5 @@
 # mysql_to_gbq
-Easily export tables from a MySQL database to Google BigQuery
+Easily export tables from a MySQL database to Google BigQuery using Nodejs!
 
 # How to Use
 - Ensure that you have permissions to read / write from Google Cloud Storage and Google BigQuery
