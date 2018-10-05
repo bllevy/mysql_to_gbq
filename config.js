@@ -1,8 +1,8 @@
 'use strict';
 
 (function() {
-  let getConfig = require('./util.js').getConfig;
-  let _ = require('lodash');
+  const getConfig = require('./util.js').getConfig;
+  const _ = require('lodash');
 
   /**
    * Filters out tables that should not be replicated to BigQuery.
